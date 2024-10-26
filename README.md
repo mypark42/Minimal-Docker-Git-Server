@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-### Step 1. Copy your public key from .ssh
+### Step 1. copy your public key from .ssh
 
 example: rsa
 ```sh
