@@ -27,7 +27,7 @@ git push my-git master
 git clone git@[git-server-ip]:/repos/first-repo.git
 ```
 
-## Create new remote repository
+## Create a new remote repository
 ```sh
 ssh git@[git-server-ip]
 mkdir /repos/new-repo.git
